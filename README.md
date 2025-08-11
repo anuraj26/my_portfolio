@@ -1,4 +1,4 @@
-# HKflix — Netflix-style AI/NLP Portfolio
+# AnurajFlix — Netflix-style AI/NLP Portfolio
 
 A minimal Next.js (App Router) + Tailwind project that presents an AI/NLP portfolio in a Netflix-like UI.
 
