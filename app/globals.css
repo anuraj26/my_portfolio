@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 0 0% 0%;
+  --foreground: 0 0% 98%;
+}
+
+body {
+  @apply bg-black text-neutral-100;
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  height: 8px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: rgba(120,120,120,.5);
+  border-radius: 9999px;
+}
